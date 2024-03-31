@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 // Teacher subclass
 class Teacher extends Person {
     private int numCourses = 0;
